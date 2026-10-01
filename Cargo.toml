@@ -1,0 +1,8 @@
+[package]
+name = "bus109_live"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bus109 = { path="../bus109" }
+
